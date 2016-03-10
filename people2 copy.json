@@ -1,0 +1,62 @@
+{
+  "network": {
+    "user": [
+      {
+        "-ID": "1",
+        "firstname": "Renad",
+        "lastname": "khateeb",
+        "Gender": "Female",
+        "birthdate": "26 June 1994",
+
+        
+        "address": " Ramallah",
+        "hobbies": "  swimming, reading",
+        "nationality": "Palestinian"
+      },
+      {
+        "-ID": "2",
+        "firstname": "Tala",
+        "lastname": "Moin",
+        "Gender": "Female",
+        "birthdate": "18 Aug 1995",
+       
+        "address": " Berziet",
+        "hobbies": " drawing, swimming, hourseback riding",
+        "nationality": "Jordinian"
+      },
+      {
+        "-ID": "3",
+        "firstname": "Layali",
+        "lastname": "mhmad",
+        "Gender": "Female",
+        "birthdate": "25 June 1993",
+       
+        "address": " Ramallah",
+        "hobbies": " sleeping",
+        "nationality": "Palestinian"
+      },
+      {
+        "-ID": "4",
+        "firstname": "Samer",
+        "lastname": "ajouli",
+        "Gender": "male",
+        "birthdate": "20 July 1995",
+      
+        "address": " Ramallah",
+        "hobbies": " sleeping, talking",
+        "nationality": "Palestinian"
+      },
+      {
+        "-ID": "5",
+        "firstname": "abdullah",
+        "lastname": "nasser",
+        "Gender": "male",
+        "birthdate": "18 Aug 1994",
+      
+        "address": " Abu-dees",
+        "hobbies": " sleeping,volleyball, football",
+        "nationality": "Palestinian"
+      }
+    ]
+  }
+}
